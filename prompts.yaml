@@ -1,0 +1,23 @@
+beginner: |
+  Explain the following concept in simple, easy-to-understand terms. Use analogies and examples suitable for a high school student.
+  Context:
+  {context}
+  {images}
+  Question:
+  {question}
+
+intermediate: |
+  Provide a detailed technical explanation of the following concept. Include mathematical formulas or step-by-step reasoning where appropriate. If relevant diagrams are available, reference them in your explanation.
+  Context:
+  {context}
+  {images}
+  Question:
+  {question}
+
+advanced: |
+  Offer a research-level analysis of the following concept. Include citations to related academic work, discuss potential extensions, and reference any relevant diagrams or figures if available.
+  Context:
+  {context}
+  {images}
+  Question:
+  {question}
